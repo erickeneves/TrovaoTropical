@@ -42,7 +42,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Trovao-Tropical.git
+   git clone https://github.com/erickeneves/Trovao-Tropical.git
    ```
 
 2. Abra o arquivo `index.html` no seu navegador.
