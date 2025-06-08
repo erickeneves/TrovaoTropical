@@ -74,7 +74,3 @@
 
 Contribuições são muito bem-vindas!  
 Sinta-se à vontade para abrir *Issues* ou enviar *Pull Requests* 🌟
-
----
-
-**Feito com 💙 por [Seu Nome]**
